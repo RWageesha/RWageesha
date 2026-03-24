@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Wageesha 👋</h1>
-<h3 align="center">Full-Stack & AI/ML Developer | Future Cyber Security Engineer</h3>
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=230&section=header&text=Wageesha%20%7C%20Full-Stack%20%26%20AI%2FML&fontSize=32&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Future%20Cyber%20Security%20Engineer%20%7C%20Secure%20Systems%20Learner&descAlignY=60&descAlign=50" alt="" />
+</p>
 
 <p align="center">
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+full-stack+%26+AI%2FML+systems;Growing+towards+secure+systems+%26+cyber+security;Learning+by+building+real+projects" alt="Typing animation" />
@@ -8,12 +9,6 @@
 <p align="center">
 	<a href="https://github.com/RWageesha">
 		<img src="https://komarev.com/ghpvc/?username=rwageesha&label=Profile%20views&color=0e75b6&style=flat" alt="rwageesha" />
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=rwageesha&theme=tokyonight&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Profile Trophies" />
 	</a>
 </p>
 
