@@ -2,6 +2,10 @@
 <h3 align="center">Full-Stack & AI/ML Developer | Future Cyber Security Engineer</h3>
 
 <p align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+full-stack+%26+AI%2FML+systems;Growing+towards+secure+systems+%26+cyber+security;Learning+by+building+real+projects" alt="Typing animation" />
+</p>
+
+<p align="center">
 	<a href="https://github.com/RWageesha">
 		<img src="https://komarev.com/ghpvc/?username=rwageesha&label=Profile%20views&color=0e75b6&style=flat" alt="rwageesha" />
 	</a>
@@ -9,7 +13,7 @@
 
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=rwageesha&theme=algolia&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="rwageesha trophies" />
+		<img src="https://github-profile-trophy.vercel.app/?username=rwageesha&theme=tokyonight&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Profile Trophies" />
 	</a>
 </p>
 
