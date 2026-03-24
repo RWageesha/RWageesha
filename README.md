@@ -1,15 +1,18 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=230&section=header&text=Wageesha%20%7C%20Full-Stack%20%26%20AI%2FML&fontSize=32&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Future%20Cyber%20Security%20Engineer%20%7C%20Secure%20Systems%20Learner&descAlignY=60&descAlign=50" alt="" />
+	<img src="svg/animated-header.svg" alt="Animated Header" />
+</p>
+
+<h1 align="center">Hi, I'm Wageesha 👋</h1>
+<h3 align="center">Full-Stack & AI/ML Developer | Future Cyber Security Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+full-stack+%26+AI%2FML+systems;Growing+towards+secure+systems+%26+cyber+security;Learning+by+building+real+projects" alt="Typing animation" />
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+full-stack+%26+AI%2FML+systems;Growing+towards+secure+systems+%26+cyber+security;Learning+by+building+real+projects" alt="Typing animation" />
-</p>
-
-<p align="center">
-	<a href="https://github.com/RWageesha">
-		<img src="https://komarev.com/ghpvc/?username=rwageesha&label=Profile%20views&color=0e75b6&style=flat" alt="rwageesha" />
-	</a>
+  <a href="https://github.com/RWageesha">
+    <img src="https://komarev.com/ghpvc/?username=rwageesha&label=Profile%20views&color=0e75b6&style=flat" alt="rwageesha" />
+  </a>
 </p>
 
 ---
@@ -154,15 +157,15 @@ I’m intentionally growing from “builder” to “secure systems engineer”.
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=rwageesha&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rwageesha&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=rwageesha&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rwageesha&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rwageesha&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rwageesha&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -176,19 +179,19 @@ I’m actively looking for <b>internships, student roles, and collaboration oppo
 - Secure systems, networking, and early-stage cyber security work  
 
 <p align="left">
-	<!-- Replace with your real links -->
-	<a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-	</a>
-	<a href="mailto:your.email@example.com" target="_blank">
-		<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-	</a>
+  <!-- Replace with your real links -->
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-	<i>I build practical software systems and intelligent applications, and I’m intentionally growing toward secure systems, networking, and cyber security engineering.</i>
+  <i>I build practical software systems and intelligent applications, and I’m intentionally growing toward secure systems, networking, and cyber security engineering.</i>
 </p>
 
 
