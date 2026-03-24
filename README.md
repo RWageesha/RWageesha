@@ -2,9 +2,6 @@
 	<img src="svg/animated-header.svg" alt="Animated Header" />
 </p>
 
-<h1 align="center">Hi, I'm Wageesha 👋</h1>
-<h3 align="center">Full-Stack & AI/ML Developer | Future Cyber Security Engineer</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+full-stack+%26+AI%2FML+systems;Growing+towards+secure+systems+%26+cyber+security;Learning+by+building+real+projects" alt="Typing animation" />
 </p>
@@ -17,15 +14,29 @@
 
 ---
 
-## 👨‍🎓 About Me
-
-I’m <b>Wageesha</b>, a university student developer who builds <b>practical software systems and intelligent applications</b>, and is <b>intentionally growing toward secure systems, networking, and cyber security engineering</b>.
-
-- 🔧 <b>Current focus:</b> Full-Stack Development (frontend + backend) and AI/ML engineering  
-- 🛡️ <b>Future direction:</b> Cyber Security Engineer (secure systems, secure infrastructure, networking)  
-- 🧠 <b>Strengths:</b> System thinking, problem solving, data-driven mindset, learning by building  
-- 🎯 <b>Short-term goal:</b> Strong industry-ready foundation for internships and junior roles  
-- 🚀 <b>Long-term vision:</b> Design and build <b>secure, reliable, and intelligent systems</b> end-to-end  
+<!-- ===== About Me ===== -->
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td valign="top" width="55%" style="padding-right: 24px; line-height: 1.6; text-align: left;">
+      <h2>👨‍🎓 About Me</h2>
+      <p>
+        I’m <b>Wageesha</b>, a university student developer who builds
+        <b>practical software systems</b> and <b>intelligent applications</b>, and is
+        intentionally growing toward <b>secure systems, networking, and cyber security engineering</b>.
+      </p>
+      <ul>
+        <li>🔧 <b>Current focus:</b> Full‑Stack Development (frontend + backend) &amp; AI/ML engineering</li>
+        <li>🛡️ <b>Future direction:</b> Cyber Security Engineer (secure systems, infrastructure, networking)</li>
+        <li>🧠 <b>Strengths:</b> Systems thinking, problem‑solving, data‑driven mindset, learning by building</li>
+        <li>🎯 <b>Short‑term goal:</b> Build a strong, industry‑ready foundation for internships &amp; junior roles</li>
+        <li>🚀 <b>Long‑term vision:</b> Design and ship <b>secure, reliable, intelligent systems</b> end‑to‑end</li>
+      </ul>
+    </td>
+    <td valign="middle" width="45%" style="text-align: center;">
+      <img src="./gif/0325.gif" alt="Developer working with code and cyber-tech systems" width="100%" style="max-width: 320px; border-radius: 16px; display: inline-block;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -132,25 +143,90 @@ I’m intentionally growing from “builder” to “secure systems engineer”.
 
 ---
 
-## 🧰 Tech Stack Snapshot
+## 🧰 Tech Stack
 
-> Exact technologies may vary by project; this is a <b>realistic snapshot</b>, not a buzzword list.
+> A realistic snapshot of what I <b>actually use and learn with</b>.
 
-**Core**
+### 🧾 Programming Languages
 
-- Languages: <b>Python</b>, <b>JavaScript/TypeScript</b>, basic <b>Bash</b>
-- Web: <b>React</b> / modern frontend, <b>Node.js/Express</b> or similar backend stacks
-- Databases: <b>SQL</b> and <b>NoSQL</b> experience in student projects
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+</p>
 
-**AI / ML**
+### 🌐 Frontend
 
-- Python ML ecosystem (e.g., <b>NumPy</b>, <b>Pandas</b>, <b>scikit-learn</b>, basic <b>CV/NLP</b> libraries)
-- Model training & evaluation for <b>small to medium datasets</b>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React (learning / planned)" width="40" height="40"/>
+</p>
 
-**Tools & Platforms**
+### ⚙️ Backend / APIs
 
-- Git & GitHub (branches, PRs, reviews)  
-- Linux-based development, containers and cloud basics (growing)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+</p>
+
+### 🤖 AI / ML & Intelligent Systems
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+</p>
+
+- Python AI/ML stack (NumPy, Pandas, scikit-learn)
+- Computer vision with <b>OpenCV</b> (Face Recognition System)
+- Multi-agent simulations with <b>Mesa</b>
+- Ontology &amp; reasoning with <b>Owlready2</b> + SWRL rules
+
+### 🔐 Security, Networking & Systems (Growing)
+
+- Tools: <b>Wireshark</b>, <b>Nmap</b>, <b>Burp Suite</b>, <b>Metasploit</b>, <b>Netcat</b>
+- Concepts: CIA triad, OWASP basics, recon &amp; scanning, traffic analysis
+- Networking: TCP/IP, DNS, DHCP, HTTP/HTTPS, subnetting, routing
+
+### 🧰 Dev Tools & Platforms
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+</p>
+
+### 📦 DevOps & Other Tech (Learning / Exposure)
+
+- Docker, VirtualBox / VMware, basic deployment
+- Supabase, Next.js, Flutter/Dart, GraphQL, MQTT concepts
+
+### 🎮 Specialized Systems I’ve Built
+
+- Chatbot systems (rule-based + ML)
+- Simulation systems (agents + ontology)
+- Forecasting / analytics systems (InsightLK)
+- Automation systems (e.g., attendance AI, social / content bots)
 
 ---
 

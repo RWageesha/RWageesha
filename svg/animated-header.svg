@@ -1,15 +1,98 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220" role="img" aria-label="Wageesha | Full-Stack &amp; AI/ML Developer">
   <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color: #00F7FF; stop-opacity: 1" />
-      <stop offset="100%" style="stop-color: #8A2BE2; stop-opacity: 1" />
+    <!-- Soft mist / cloud blur -->
+    <filter id="cloudBlur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="25" />
+    </filter>
+
+    <!-- Deep ocean gradients for animated waves -->
+    <linearGradient id="waveGradient1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#021a3a" />
+      <stop offset="100%" stop-color="#054c7c" />
+    </linearGradient>
+
+    <linearGradient id="waveGradient2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#032552" />
+      <stop offset="100%" stop-color="#0a6ba8" />
+    </linearGradient>
+
+    <linearGradient id="waveGradient3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#03122a" />
+      <stop offset="100%" stop-color="#043a63" />
     </linearGradient>
   </defs>
-  <rect width="800" height="200" fill="url(#gradient)">
-    <animate attributeName="x" from="-800" to="800" dur="5s" repeatCount="indefinite" />
-  </rect>
-  <text x="50%" y="50%" font-size="32" font-family="Arial, sans-serif" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">
-    Wageesha | Full-Stack & AI/ML
-    <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" />
+
+  <!-- Deep navy base -->
+  <rect x="0" y="0" width="800" height="220" fill="#020b30" />
+
+  <!-- Soft cloudy / mist layer behind waves -->
+  <g filter="url(#cloudBlur)" opacity="0.55">
+    <!-- Left cloud -->
+    <circle cx="140" cy="120" r="80" fill="#1c5abc">
+      <animateTransform attributeName="transform" type="translate" dur="22s" values="0 4; 0 -4; 0 4" repeatCount="indefinite" />
+    </circle>
+    <!-- Center cloud -->
+    <circle cx="400" cy="115" r="95" fill="#5734b8">
+      <animateTransform attributeName="transform" type="translate" dur="28s" values="0 -3; 0 3; 0 -3" repeatCount="indefinite" />
+    </circle>
+    <!-- Right cloud -->
+    <circle cx="660" cy="120" r="85" fill="#197596">
+      <animateTransform attributeName="transform" type="translate" dur="24s" values="0 5; 0 -5; 0 5" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Ocean-style animated waves (background only) -->
+  <g opacity="0.9">
+    <!-- Back wave -->
+    <path fill="url(#waveGradient1)" d="M0 150 Q 200 130 400 150 T 800 150 L800 220 L0 220 Z">
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        dur="18s"
+        repeatCount="indefinite"
+        values="-60 0; 0 2; 60 0; 0 -2; -60 0"
+        keyTimes="0;0.25;0.5;0.75;1"
+        keySplines="0.42 0 0.58 1; 0.42 0 0.58 1; 0.42 0 0.58 1; 0.42 0 0.58 1"
+        calcMode="spline" />
+    </path>
+
+    <!-- Mid wave -->
+    <path fill="url(#waveGradient2)" d="M0 155 Q 200 135 400 155 T 800 155 L800 220 L0 220 Z" opacity="0.9">
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        dur="14s"
+        repeatCount="indefinite"
+        values="50 0; 0 -1; -50 0; 0 1; 50 0"
+        keyTimes="0;0.25;0.5;0.75;1"
+        keySplines="0.42 0 0.58 1; 0.42 0 0.58 1; 0.42 0 0.58 1; 0.42 0 0.58 1"
+        calcMode="spline" />
+    </path>
+
+    <!-- Front wave -->
+    <path fill="url(#waveGradient3)" d="M0 160 Q 200 140 400 160 T 800 160 L800 220 L0 220 Z" opacity="0.95">
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        dur="10s"
+        repeatCount="indefinite"
+        values="-35 0; 0 1; 35 0; 0 -1; -35 0"
+        keyTimes="0;0.25;0.5;0.75;1"
+        keySplines="0.42 0 0.58 1; 0.42 0 0.58 1; 0.42 0 0.58 1; 0.42 0 0.58 1"
+        calcMode="spline" />
+    </path>
+  </g>
+
+  <!-- Foreground text in white (no animations) -->
+  <text x="50%" y="90" text-anchor="middle" fill="#ffffff" font-family="'Fira Code', 'JetBrains Mono', 'Source Code Pro', 'Roboto Mono', monospace" font-size="40" font-weight="700">
+    Hi, I'm Wageesha 
+  </text>
+
+  <text x="50%" y="135" text-anchor="middle" fill="#ffffff" font-family="'Fira Code', 'JetBrains Mono', 'Source Code Pro', 'Roboto Mono', monospace" font-size="20">
+    Full-Stack &amp; AI/ML Developer | Future Cyber Security Engineer
+  </text>
+
+  <text x="50%" y="175" text-anchor="middle" fill="#ffffff" font-family="'Fira Code', 'JetBrains Mono', 'Source Code Pro', 'Roboto Mono', monospace" font-size="18">
+    building full-stack &amp; AI/ML systems
   </text>
 </svg>
